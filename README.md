@@ -12,13 +12,13 @@
 - [Introduction](#introduction)
 - [HIAS: Hospital Intelligence Automation System](#hias-hospital-intelligent-automation-system)
 - [HIAS GeniSysAI Artificial Intelligence](#hias-genisysai-artificial-intelligence)
-    - [Hardware](#hardware)
-        - [Raspberry Pi](#raspberry-pi)
-        - [HIAS Server](#hias-server)
-    - [Natural Language Understanding Engines](#natural-language-understanding-engines)
-    	- [Types Of Natural Language Understanding Engines](#types-of-natural-language-understanding-engines)
-    	- [Natural Language Understanding Engine Projects](#natural-language-understanding-engine-projects)
+	- [Hardware](#hardware)
+		- [Raspberry Pi](#raspberry-pi)
+	- [Natural Language Understanding Engines](#natural-language-understanding-engines)
+		- [Types Of Natural Language Understanding Engines](#types-of-natural-language-understanding-engines)
+		- [Natural Language Understanding Engine Projects](#natural-language-understanding-engine-projects)
 			- [RPI Natural Language Understanding Engine Projects](#rpi-natural-language-understanding-engine-projects)
+			- [HIAS Server Natural Language Understanding Engine](#hias-server-natural-language-understanding-engine)
 - [Contributing](#contributing)
     - [Contributors](#contributors)
 - [Versioning](#versioning)
@@ -70,7 +70,7 @@ Generative NLUs generate their own responses, these systems are typical based on
 ### **Natural Language Understanding Engine Projects**
 The HIAS GeniSysAI NLUs currently focus on Retrieval Based NLU. Combined with Speech Recognition & Synthesis, and IoT connectivity we can create an AI that can see, hear, understand and speak. Below you will find details of the Natural Language Understanding Engine projects provided in this repository.
 
-#### **HIAS Natural Language Understanding Engine**
+#### **HIAS Server Natural Language Understanding Engine**
 
 | Project   | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | --- |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
