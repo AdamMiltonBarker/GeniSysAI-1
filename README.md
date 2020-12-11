@@ -3,7 +3,7 @@
 [![HIAS GeniSysAI Systems](Media/Images/GeniSysAI.png)](https://github.com/LeukemiaAiResearch/GeniSysAI)
 
 
-[![CURRENT VERSION](https://img.shields.io/badge/CURRENT%20VERSION-0.4.0-blue.svg)](https://github.com/LeukemiaAiResearch/GeniSysAI/tree/0.4.0) [![CURRENT DEV BRANCH](https://img.shields.io/badge/CURRENT%20DEV%20BRANCH-0.5.0-blue.svg)](https://github.com/LeukemiaAiResearch/GeniSysAI/tree/0.5.0)  [![Contributions Welcome!](https://img.shields.io/badge/Contributions-Welcome-lightgrey.svg)](CONTRIBUTING.md)  [![Issues](https://img.shields.io/badge/Issues-Welcome-lightgrey.svg)](issues) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue.svg)](LICENSE)
+[![CURRENT VERSION](https://img.shields.io/badge/CURRENT%20VERSION-1.0.0-blue.svg)](https://github.com/LeukemiaAiResearch/GeniSysAI/tree/1.0.0) [![CURRENT DEV BRANCH](https://img.shields.io/badge/CURRENT%20DEV%20BRANCH-1.1.0-blue.svg)](https://github.com/LeukemiaAiResearch/GeniSysAI/tree/1.1.0)  [![Contributions Welcome!](https://img.shields.io/badge/Contributions-Welcome-lightgrey.svg)](CONTRIBUTING.md)  [![Issues](https://img.shields.io/badge/Issues-Welcome-lightgrey.svg)](issues) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue.svg)](LICENSE)
 
 &nbsp;
 
@@ -14,7 +14,7 @@
 - [HIAS GeniSysAI Artificial Intelligence](#hias-genisysai-artificial-intelligence)
     - [Hardware](#hardware)
         - [Raspberry Pi](#raspberry-pi)
-        - [UP2 (UP Squared)](#up2-up-squared)
+        - [HIAS Server](#hias-server)
     - [Natural Language Understanding Engines](#natural-language-understanding-engines)
     	- [Types Of Natural Language Understanding Engines](#types-of-natural-language-understanding-engines)
     	- [Natural Language Understanding Engine Projects](#natural-language-understanding-engine-projects)
@@ -49,17 +49,12 @@ The server UI provides the capabilities of managing a network of open-source int
 The projects provided in this repository are based on the [GeniSysAI NLU (Natural Language Understanding Engine)](https://github.com/GeniSysAI/NLU) projects.
 
 ## Hardware
-HIAS GeniSysAI devices are designed to be used on popular low powered, IoT devices such as **Raspberry Pi** and **Aaeon's UP2 (Up Squared)**. This makes them easy to use and affordable.
+HIAS GeniSysAI devices are designed to be used on popular low powered, IoT devices such as **Raspberry Pi** and also on higher powered devices for versions with more functionality and HIAS network integration.
 
 ### Raspberry Pi
 [![Raspberry Pi 4](Media/Images/raspberry-pi-4.png)](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
 
 Raspberry Pi by the **Raspberry Pi Foundation** are the most popular of the available mini ARM computers. RPIs provide easily affordable single board computers that have been widely adopted by the IoT and AI communities. The HIAS GeniSysAI projects suppory Raspberry Pi 3 and 4.
-
-### UP2 (UP Squared)
-[![UP2](Media/Images/UP2.jpg)](https://up-board.org/upsquared/specifications/)
-
-UP2 by **Aaeon** are also popular with the IoT and AI communities. Unlike the Raspberry Pi, the UP2 have Intel Pentium quad-core processors. The UP2 are bigger than the Raspberry Pi, but are also more expensive.
 
 ## Natural Language Understanding Engines
 Natural Language Understanding (NLU) is a popular subset of Artificial Intelligence, but also one of the hardest to overcome. Many believe that by the time we have the capabilities of creating machines capable of really understanding human language, and consicously knowing what they are talking about, we will be close to the sentient AI and the singularity.
